@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 
-import python_for_me_and_you
+__import__("os").write(1, "#pythoniscool\n".encode("UTF-8"))
