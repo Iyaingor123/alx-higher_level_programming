@@ -78,4 +78,3 @@ void print_python_list(PyObject *p)
 			print_python_float(((PyListObject *)p)->ob_item[i]);
 	}
 }
-"
